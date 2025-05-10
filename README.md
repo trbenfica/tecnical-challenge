@@ -1,6 +1,4 @@
-# Faturamento Distribuidora
-
-Este repositório contém o desafio técnico da Target Sistemas
+# Desafio técnico da Target Sistemas
 
 ## Como executar
 
